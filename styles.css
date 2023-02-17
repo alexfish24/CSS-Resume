@@ -1,0 +1,54 @@
+h1  
+    {position:fixed;
+    color: darkslateblue;
+    font-family:sans-serif;
+    font-size: 35px; 
+    line-height:normal; 
+    font-style:normal; 
+    font-weight:200;}
+
+h2 {position:fixed;
+    color: darkslateblue;
+    font-family:sans-serif;
+    font-size: 30px; 
+    line-height:normal; 
+    font-style:normal; 
+    font-weight:200;}
+
+#alex {position: relative;
+       top:0px;
+       left:530px;
+       width:350px;} 
+
+li {list-style-type:square;}
+
+a {color:dodgerblue;
+   opacity: 75%;}
+
+h1 {position:relative;
+    text-align: center;
+background-color: lightskyblue;
+    background-position: center;}
+
+h2 {position:relative;
+    text-align: center;
+    background-color: lightskyblue;
+    background-position: center;}
+
+
+body {color:darkblue;
+      font-family:sans-serif;
+      font-size: 20px;
+      border-style: solid;
+      border-width: thick;
+      border-color: black;
+      background-color:lightcyan;}
+
+
+
+
+
+
+
+
+
